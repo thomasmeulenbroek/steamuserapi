@@ -1,0 +1,7 @@
+*.mongodb
+todo.txt
+Dockerfile
+.dockerignore
+docker-compose.yml
+.env
+node_modules
